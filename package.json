@@ -50,5 +50,8 @@
     "autoprefixer": "^9",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
-  }
+  },
+  "main": "index.js",
+  "author": "ArjunAghera <agheraarjun23@gmail.com>",
+  "license": "MIT"
 }
